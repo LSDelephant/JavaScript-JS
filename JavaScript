@@ -1,0 +1,2 @@
+// Простий JavaScript-код
+console.log("Привіт, світ!");
